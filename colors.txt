@@ -1,10 +1,7 @@
 red
 black
 green
-<<<<<<< HEAD
 blue
 pink
-=======
-blue 
 orange
->>>>>>> 6740205c3373ecd06fc9ab2c5ebbf4da6f67b1ee
+purple
